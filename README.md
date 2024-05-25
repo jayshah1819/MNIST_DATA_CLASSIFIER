@@ -1,0 +1,1 @@
+This project implements a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset, which includes 60,000 training and 10,000 testing images. Using PyTorch, the CNN features convolutional, dropout, and fully connected layers. The repository includes scripts for data loading, model training, evaluation, and result visualization.
